@@ -67,10 +67,5 @@
   "scripts/verify_cohort.py": "7d0afc77105b15c330ea25ded8fe5c2dba575b97ec22ec1082c7af23a798d63b",
   "src/phasepair/__init__.py": "4fc8922524b8c4a567a9f5e943770b3928850cf72ae460730e77b748c0026d79",
   "src/phasepair/core.py": "b7029601f28e8295bbf77d28d853c23e0623d0e605874add930d73599aad9f15",
-  "src/phasepair.egg-info/PKG-INFO": "fa275c4fc060080aeb949c2e63521a2c159f5e6b72b9411b0acfaa8a63ad151c",
-  "src/phasepair.egg-info/SOURCES.txt": "d1d8edcf56bc89c4b0204063e514bb4d845681dac3924a7b9889b7d9fff32633",
-  "src/phasepair.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-  "src/phasepair.egg-info/requires.txt": "f7498037fe1e1e4a45866c6746c061bbb65293627fa03394bff8631ce87d6e37",
-  "src/phasepair.egg-info/top_level.txt": "96145f995a593b974c8dbd07beb3ad9227b188a914ab66666d36060d7c5a9b7d",
   "tests/test_core.py": "2d8a2c496ea572b1baeff0cdbeb16a2fd13fbb9812a2a368ab9a7a1a4495f2d3"
 }

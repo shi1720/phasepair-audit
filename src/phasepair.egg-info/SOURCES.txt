@@ -1,8 +1,0 @@
-pyproject.toml
-src/phasepair/__init__.py
-src/phasepair/core.py
-src/phasepair.egg-info/PKG-INFO
-src/phasepair.egg-info/SOURCES.txt
-src/phasepair.egg-info/dependency_links.txt
-src/phasepair.egg-info/requires.txt
-src/phasepair.egg-info/top_level.txt
