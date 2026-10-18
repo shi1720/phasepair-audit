@@ -1,0 +1,9 @@
+Derived area profiles, public cohort identifiers and example contour geometry derive from the Vestibular-Schwannoma-SEG dataset, March 2021 contour export.
+
+Source dataset: https://doi.org/10.7937/TCIA.9YTJ-5Q73
+Source paper: Shapey J, Kujawa A, Dorent R, et al. Segmentation of vestibular schwannoma from MRI, an open annotated dataset and baseline algorithm. Scientific Data 8, 286 (2021). https://doi.org/10.1038/s41597-021-01064-w
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+
+Changes: targets selected by documented geometric criteria; coordinates converted into planar area profiles; optional polygon repair separately labeled; an unmodified public target contour is bundled for figure regeneration. None of these changes is endorsed by the source investigators or TCIA.
+
+Crossref reference metadata is separately recorded with its DOI provenance.

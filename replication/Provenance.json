@@ -1,0 +1,32 @@
+{
+  "original_git_revision": "03f74d8",
+  "protocol_commit": "b1989d8c4c1d92ad00c2b3df3554bccbfcb2c2aa",
+  "protocol_registration": "Local version-control record; not externally registered",
+  "runtime_source_sha256": {
+    "src/phasepair/core.py": "b7029601f28e8295bbf77d28d853c23e0623d0e605874add930d73599aad9f15",
+    "src/phasepair/__init__.py": "4fc8922524b8c4a567a9f5e943770b3928850cf72ae460730e77b748c0026d79",
+    "scripts/run_study.py": "70fd86b7eab5579278358d083d0bf2a0c5a54f950900c8ce0c93f6b409d2ddcc",
+    "scripts/extract_profiles.py": "d4ec9a23216b3f73037657b9dd604b0c2b8947b0d92034466b686e1fd629bb0d",
+    "scripts/verify_cohort.py": "7d0afc77105b15c330ea25ded8fe5c2dba575b97ec22ec1082c7af23a798d63b",
+    "scripts/cross_spacing.py": "b6cfeac3b885f1ab7d26ba415bd4bc1ee30023743bf5eea21c868fa1304758f4",
+    "scripts/resolution_curve.py": "68d1b9190fde68d56edbcabc3b751055b6a68a750e6b8ffa459c2863937b130c",
+    "scripts/make_figures.py": "6e996276740ab0457d51d59ffa950d2a4cbeb71c74cdced064678364b75cd21a",
+    "tests/test_core.py": "2d8a2c496ea572b1baeff0cdbeb16a2fd13fbb9812a2a368ab9a7a1a4495f2d3"
+  },
+  "source_contour_archive_sha256": "318261d120722f45be2bdf01f7970a2a5cc4a220f2d9efc478ff13544a1eb5aa",
+  "source_contour_archive_bytes": 16742814,
+  "reextracted_files_identical": [
+    "data/profiles.json",
+    "data/profiles_repaired.json",
+    "data/cohort_audit.csv",
+    "data/cohort_audit_repaired.csv"
+  ],
+  "fresh_tests_passed": 6,
+  "replication_date": "2026-10-18",
+  "source_acquisition_date": "2026-10-17",
+  "primary_cohort": 217,
+  "repaired_cohort": 238,
+  "grid_checks": 868,
+  "assignment_checks": 15,
+  "monte_carlo_pairs": 1000000
+}

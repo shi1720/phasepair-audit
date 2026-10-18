@@ -1,0 +1,13 @@
+{
+  "cohort_grid_checks": 868,
+  "max_grid_error": 1.5659325823133563e-05,
+  "mean_grid_error": 3.683532628107382e-08,
+  "transport_checks": 15,
+  "max_transport_error": 0.0013742527481261924,
+  "monte_carlo_case": "vs_gk_141_t1",
+  "monte_carlo_n": 1000000,
+  "monte_carlo": 0.22791,
+  "monte_carlo_exact": 0.2285104907948865,
+  "max_linear_slab_relative_volume_difference": 3.8429220377048305e-16,
+  "runtime_seconds": 27.247301374998642
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "spacing_mm": 1.0,
+    "n": 217,
+    "mean_phase_bias": 3.3306690738754696e-16,
+    "non_detection_cases": 0,
+    "max_phase_ratio": 1.1173408026730107,
+    "independent": 0.0,
+    "independent_ci": [
+      0.0,
+      0.0
+    ],
+    "worst": 0.0,
+    "worst_ci": [
+      0.0,
+      0.0
+    ],
+    "susceptible": 0.0,
+    "susceptible_ci": [
+      0.0,
+      0.0
+    ],
+    "susceptible_count": 0
+  },
+  {
+    "spacing_mm": 1.5,
+    "n": 217,
+    "mean_phase_bias": 4.440892098500626e-16,
+    "non_detection_cases": 0,
+    "max_phase_ratio": 1.2148665433573325,
+    "independent": 9.192030010274952e-06,
+    "independent_ci": [
+      0.0,
+      2.7576090030824855e-05
+    ],
+    "worst": 0.00026570530449104103,
+    "worst_ci": [
+      0.0,
+      0.0007971159134731231
+    ],
+    "susceptible": 0.004608294930875576,
+    "susceptible_ci": [
+      0.0,
+      0.013824884792626729
+    ],
+    "susceptible_count": 1
+  },
+  {
+    "spacing_mm": 2.0,
+    "n": 217,
+    "mean_phase_bias": 3.3306690738754696e-16,
+    "non_detection_cases": 0,
+    "max_phase_ratio": 1.3461770591864883,
+    "independent": 0.0007622508246121974,
+    "independent_ci": [
+      4.888215367633757e-05,
+      0.0018485447214198606
+    ],
+    "worst": 0.0033944806870196817,
+    "worst_ci": [
+      0.000553951902375721,
+      0.007194269870748628
+    ],
+    "susceptible": 0.02304147465437788,
+    "susceptible_ci": [
+      0.004608294930875576,
+      0.04608294930875576
+    ],
+    "susceptible_count": 5
+  },
+  {
+    "spacing_mm": 3.0,
+    "n": 217,
+    "mean_phase_bias": 3.3306690738754696e-16,
+    "non_detection_cases": 0,
+    "max_phase_ratio": 1.6898709727265704,
+    "independent": 0.011222181580239438,
+    "independent_ci": [
+      0.0062796796882710025,
+      0.016867130086217427
+    ],
+    "worst": 0.030477836816151557,
+    "worst_ci": [
+      0.018296299843598617,
+      0.04434131663230056
+    ],
+    "susceptible": 0.12442396313364056,
+    "susceptible_ci": [
+      0.08294930875576037,
+      0.17050691244239632
+    ],
+    "susceptible_count": 27
+  }
+]

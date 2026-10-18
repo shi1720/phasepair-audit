@@ -1,0 +1,10 @@
+{
+  "url": "https://www.cancerimagingarchive.net/wp-content/uploads/Vestibular-Schwannoma-SEG-contours-Mar-2021.zip",
+  "sha256": "318261d120722f45be2bdf01f7970a2a5cc4a220f2d9efc478ff13544a1eb5aa",
+  "bytes": 16742814,
+  "dataset_doi": "10.7937/TCIA.9YTJ-5Q73",
+  "paper_doi": "10.1038/s41597-021-01064-w",
+  "retrieval_date": "2026-10-17",
+  "license": "CC BY 4.0",
+  "source": "March 2021 public JSON contour export"
+}

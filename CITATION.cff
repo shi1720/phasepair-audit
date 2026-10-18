@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software and the source TCIA dataset when using the artifact."
+type: software
+title: "PhasePair: paired slice-origin sensitivity audit"
+version: "0.1.0-journal-replication"
+date-released: "2026-10-18"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    orcid: "https://orcid.org/0009-0009-4576-0138"
+repository-code: "https://github.com/shi1720/phasepair-audit"
+license: MIT
